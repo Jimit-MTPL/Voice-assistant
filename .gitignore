@@ -1,0 +1,6 @@
+faster_whisper_model
+vassis
+__pycache__
+.env
+command.wav
+temp_audio.wav

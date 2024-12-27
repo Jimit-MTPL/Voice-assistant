@@ -1,0 +1,12 @@
+openai-whisper
+SpeechRecognition
+gpt4all
+pyaudio
+pyttsx3
+soundfile==0.12.1
+pyautogui
+os
+sys
+subprocess
+time
+subprocess
